@@ -8,6 +8,7 @@
   - The projects that belong to organizations whose name are university identifiers, means those projects were realized with the members who belong to that organization.
   - Software Engineering project was done as a group of 6 people, however to participate in <a href="https://tt.tecnico.ulisboa.pt/parcerias-empresariais/premios-de-merito-a-alunos/premio-de-merito-novabase-em-engenharia-de-software/">this</a> competion, it was put into that organization, so me and my partner could work on it.
   - Integrated Project in Computer Science and Engineering involved solving a bug (individually) and create a feature (duo) in an open-source project.
+  - Probability and Statistics and System Analysis and Modelling were group projects
 </p>
 
 <h1>Bachelor's</h1>
