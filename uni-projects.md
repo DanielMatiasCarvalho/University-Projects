@@ -31,8 +31,8 @@
 <ul>
   <li><a href="">🔒<b>Analysis and Synthesis of Algorithms</b></a></li>
   <li>🔒<b>Object Oriented Programming</b></li>
-  <li><a href="https://github.com/ist1100293-ist1102556/so-tecnicofs">🔒<b>Operating Systems</b> - Project 1 - File System</a></li>
-  <li><a href="https://github.com/ist1100293-ist1102556/so-messagebroker">🔒<b>Operating Systems</b> - Project 2 - Kafka like message broker</a></li>
+  <li><a href="https://github.com/ist1100293-ist1102556/so-tecnicofs">🔓<b>Operating Systems</b> - Project 1 - File System</a></li>
+  <li><a href="https://github.com/ist1100293-ist1102556/so-messagebroker">🔓<b>Operating Systems</b> - Project 2 - Kafka like message broker</a></li>
 </ul>
 <h3>2nd Semester</h3>
 <ul>
